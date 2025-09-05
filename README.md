@@ -1,1 +1,1 @@
-# algorithm-visualizer using java and fxjava module
+# algorithm-visualizer using java and javaFX module
